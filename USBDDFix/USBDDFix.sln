@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBDDFix", "USBDDFix.csproj", "{FD4CDE8D-D7EE-42F1-BF67-7C708EEB05B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4CDE8D-D7EE-42F1-BF67-7C708EEB05B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4CDE8D-D7EE-42F1-BF67-7C708EEB05B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4CDE8D-D7EE-42F1-BF67-7C708EEB05B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4CDE8D-D7EE-42F1-BF67-7C708EEB05B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

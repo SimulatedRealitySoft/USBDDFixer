@@ -1,0 +1,9 @@
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.csprojResolveAssemblyReference.cache
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.Acerca.resources
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.MainForm.resources
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.csproj.GenerateResource.Cache
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\bin\Debug\USBDDFix.exe
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\bin\Debug\USBDDFix.pdb
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.exe
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\obj\Debug\USBDDFix.pdb
+C:\Users\computadoraxd\Documents\SharpDevelop Projects\USBDDFix\USBDDFix\bin\Debug\USBDDFix.exe.config
