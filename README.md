@@ -40,6 +40,16 @@ Many times popular tools can damage the USB device, such as using the DD functio
 There are disk partitioning tools, but we personally tested 90% of them and they generate errors or exceptions because they cannot make a proper repair for situations of this type. On the other hand, there are tools that promise to repair such errors, but they are paid tools.
 To save you a headache, we developed this software that does everything quickly and easily, without so many twists and turns or complex processes.
 
+(Thanks for all the reviews, videos, and recommendations. I'd love to add external links, but there are so many. Your support is greatly appreciated)
+
+## 🛡️ Some certs
+
+<p align="left">
+ <img height=80px src="https://raw.githubusercontent.com/SimulatedRealitySoft/SimulatedRealitySoft/refs/heads/main/assets/images/2x_softpedia_100_free.png">
+  <img height=80px src="https://raw.githubusercontent.com/SimulatedRealitySoft/SimulatedRealitySoft/refs/heads/main/assets/images/mg_download.png">
+  <img height=80px src="https://raw.githubusercontent.com/SimulatedRealitySoft/SimulatedRealitySoft/refs/heads/main/assets/images/100clean_150x100.png">
+</p>
+
 ## 🗃️ Characteristics <a name="char"></a>
 
 - **Intuitive Interface:** Simple, clean and easy to use.
@@ -81,11 +91,19 @@ For this software to work, you need to have at least <strong>Net Framework 4.0</
 
 
 ## 🔽 Download <a name = "downloads"></a>
-For now you can download the compiled project from the github releases.
+You can download the compiled project from the:
 
 <p align="center">
   <a href="https://github.com/SimulatedRealitySoft/USBDDFixer/releases/download/v1.2/USBDDFix.exe" rel="noopener">
  <img height=80px src="https://raw.githubusercontent.com/Unknown-60/Unknown-60.github.io/main/assets/get-it-on-github.png"></a>
+
+  <a href="https://www.softpedia.com/get/System/Back-Up-and-Recovery/USBDDFix.shtml" rel="noopener">
+ <img height=80px src="https://raw.githubusercontent.com/SimulatedRealitySoft/SimulatedRealitySoft/refs/heads/main/assets/images/get-it-on-softpedia.png"></a>
+</p>
+
+<p align="center">
+<a href="https://m.majorgeeks.com/files/details/usbddfix.html" rel="noopener">
+ <img height=80px src="https://raw.githubusercontent.com/SimulatedRealitySoft/SimulatedRealitySoft/refs/heads/main/assets/images/mg_download.png"></a>
 </p>
 
 ## 🔨 Contributions <a name = "contributing"></a>
